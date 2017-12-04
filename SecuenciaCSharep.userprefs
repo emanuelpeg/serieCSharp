@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SecuenciaCSharep/Secuencia.cs">
+    <Files>
+      <File FileName="SecuenciaCSharep/Program.cs" Line="1" Column="1" />
+      <File FileName="SecuenciaCSharep/MainWindow.cs" Line="1" Column="1" />
+      <File FileName="SecuenciaCSharep/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="SecuenciaCSharep/Secuencia.cs" Line="15" Column="4" />
+      <File FileName="SecuenciaCSharep/SecuenciaInPar.cs" Line="1" Column="1" />
+      <File FileName="SecuenciaCSharep/SecuenciaPar.cs" Line="12" Column="5" />
+      <File FileName="SecuenciaCSharep/Juego.cs" Line="43" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True">
+          <Node name="SecuenciaCSharep" expanded="True">
+            <Node name="UserInterface" expanded="True" />
+            <Node name="Properties" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/home/emanuel/Projects/SecuenciaCSharep/SecuenciaCSharep/MainWindow.cs" line="27" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
